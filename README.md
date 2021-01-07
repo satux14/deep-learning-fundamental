@@ -1,1 +1,3 @@
-# deep_learning_fundamental
+# Deep Learning Fundamentals
+
+## Using NVIDIA DIGITS
